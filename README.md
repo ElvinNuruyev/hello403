@@ -11,15 +11,14 @@ Installation
 To get started with the 403 Forbidden Bypass Tool, follow these steps:
 
 Clone the Repository:
-![image](https://github.com/user-attachments/assets/d7f9639a-581c-4ade-9f18-b7e8f98238f2)
-
+`git clone https://github.com/ElvinNuruyev/403forbiddenBypass.git`
 
 Install Dependencies:
 `pip install -r requirements.txt`
 
 Run the Tool:
 `python3 bypass.py`
-![image](https://github.com/user-attachments/assets/8d8ba578-4b51-4144-af40-afc6511b6bf8)
+![image](https://github.com/user-attachments/assets/31bb9626-805a-43bc-ae54-4818326b239c)
 
 
 Contributing
