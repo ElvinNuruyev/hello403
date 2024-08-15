@@ -18,6 +18,8 @@ Install Dependencies:
 
 Run the Tool:
 `python3 bypass.py`
+![image](https://github.com/user-attachments/assets/8d8ba578-4b51-4144-af40-afc6511b6bf8)
+
 
 Contributing
 Contributions are welcome! If you have suggestions for new payloads or improvements, please fork the repository and submit a pull request.
